@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#000a12</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="monument_color">#4db6ac</color>
+    <color name="museum_color">#ffb74d</color>
+    <color name="natural_color">#81c784</color>
+    <color name="restaurant_color">#f48fb1</color>
+</resources>

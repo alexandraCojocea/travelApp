@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_list"
+    android:minHeight="@dimen/height_list">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/image_size"
+        android:layout_height="@dimen/image_size" />
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_list"
+        android:layout_toRightOf="@id/image"
+        android:paddingLeft="@dimen/standard_padding"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/standard_text">
+
+        <TextView
+            android:id="@+id/attraction_name"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_text"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/standard_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/attraction_location"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_text"
+            android:layout_below="@id/attraction_name"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:textColor="@android:color/white" />
+
+    </RelativeLayout>
+</RelativeLayout>

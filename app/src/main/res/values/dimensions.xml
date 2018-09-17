@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_list">112dp</dimen>
+    <dimen name="image_size">108dp</dimen>
+    <dimen name="height_text">56dp</dimen>
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="standard_text">16sp</dimen>
+    <dimen name="standard_text_big">24sp</dimen>
+
+</resources>

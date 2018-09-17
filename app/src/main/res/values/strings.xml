@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Travel Iasi</string>
+    <string name="app_main_list">Iasi City</string>
+    <string name="app_attraction_content">Attraction</string>
+    <string name="title_activity_song">SongActivity</string>
+
+    <string name="monument">Sights</string>
+
+    <string name="attraction_monument_name_one">Palace of Culture</string>
+    <string name="attraction_monument_name_two">"St. Paraschiva" Metropolitan Cathedral</string>
+    <string name="attraction_monument_name_three">Moldova Philharmonic House</string>
+    <string name="attraction_monument_name_four">National Theatre</string>
+    <string name="attraction_monument_name_five">Central University Library</string>
+
+    <string name="attraction_monument_location_one">Piata Stefan cel Mare si Sfant 1</string>
+    <string name="attraction_monument_location_two">Blvd. Stefan cel Mare si Sfant 46</string>
+    <string name="attraction_monument_location_three">Str. Arcu 13</string>
+    <string name="attraction_monument_location_four">Str. Agatha Barsescu 18</string>
+    <string name="attraction_monument_location_five">Str. Pacurari 4</string>
+
+    <string name="attraction_monument_map_one">Palatul+Culturii</string>
+    <string name="attraction_monument_map_two">Catedrala+Mitropolitana+Sfanta+Parascheva</string>
+    <string name="attraction_monument_map_three">Filarmonica+de+Stat+Moldova</string>
+    <string name="attraction_monument_map_four">Teatrul+National+Vasile+Alecsandri</string>
+    <string name="attraction_monument_map_five">Biblioteca+Centrala+Universitara+Mihai+Eminescu</string>
+
+    <string name="museum">Museum</string>
+
+    <string name="attraction_museum_name_one">Museum of Moldova</string>
+    <string name="attraction_museum_name_two">Natural History Museum</string>
+    <string name="attraction_museum_name_three">Romanian Theater History Collection</string>
+    <string name="attraction_museum_name_four">Golia Monastery</string>
+    <string name="attraction_museum_name_five">Unirii Museum</string>
+
+    <string name="attraction_museum_location_one">Housed in the Palace of Culture </string>
+    <string name="attraction_museum_location_two">Blvd. Independentei 16</string>
+    <string name="attraction_museum_location_three">Str. Vasile Alecsandri 5</string>
+    <string name="attraction_museum_location_four">Str. Cuza Voda 51</string>
+    <string name="attraction_museum_location_five">Strada Alexandru Lăpușneanu 14</string>
+
+    <string name="attraction_museum_map_one">Complexul+Muzeal+National+Moldova</string>
+    <string name="attraction_museum_map_two">Muzeul+de+Istorie+Natural+Iasi</string>
+    <string name="attraction_museum_map_three">Colecția+Istoria+Teatrului+Românesc</string>
+    <string name="attraction_museum_map_four">Manastirea+Golia</string>
+    <string name="attraction_museum_map_five">Muzeul+Unirii+Iasi</string>
+
+    <string name="natural">Nature</string>
+
+    <string name="attraction_natural_name_one">Copou Park</string>
+    <string name="attraction_natural_name_two">Botanical Garden</string>
+    <string name="attraction_natural_name_three">Ciric Lake</string>
+    <string name="attraction_natural_name_four">Cucuteni Archeological Site</string>
+    <string name="attraction_natural_name_five">Cotnari Vineyards</string>
+
+    <string name="attraction_natural_location_one">The main entrance is off Carol I Boulevard</string>
+    <string name="attraction_natural_location_two">Str. Dumbrava Rosie 7/-9</string>
+    <string name="attraction_natural_location_three">Șoseaua Ciric</string>
+    <string name="attraction_natural_location_four">10 miles SW of Cotnari</string>
+    <string name="attraction_natural_location_five">32 miles NW of Iasi</string>
+
+    <string name="attraction_natural_map_one">Parcul+Copou</string>
+    <string name="attraction_natural_map_two">Gradina+Botanica+Anastasie+Fatu</string>
+    <string name="attraction_natural_map_three">Lacul+Ciric</string>
+    <string name="attraction_natural_map_four">Cucuteni</string>
+    <string name="attraction_natural_map_five">Podgoriile+Cotnari</string>
+
+    <string name="restaurant">Food</string>
+
+    <string name="attraction_restaurant_name_one">La Castel</string>
+    <string name="attraction_restaurant_name_two">Fenice Palas</string>
+    <string name="attraction_restaurant_name_three">Casa Bolta Rece</string>
+    <string name="attraction_restaurant_name_four">Mamma Mia</string>
+    <string name="attraction_restaurant_name_five">Restaurant Traian</string>
+
+    <string name="attraction_restaurant_location_one">Aleea Mihail Sadoveanu 54</string>
+    <string name="attraction_restaurant_location_two">Strada Palas 3F</string>
+    <string name="attraction_restaurant_location_three">Piața Unirii nr. 2</string>
+    <string name="attraction_restaurant_location_four">Bulevardul Ștefan cel Mare și Sfânt 4</string>
+    <string name="attraction_restaurant_location_five"> Piața Unirii nr. 1</string>
+
+    <string name="attraction_restaurant_map_one">La+Castel+Iasi</string>
+    <string name="attraction_restaurant_map_two">Fenice+Palas</string>
+    <string name="attraction_restaurant_map_three">Casa+Bolta+Rece</string>
+    <string name="attraction_restaurant_map_four">Mamma+Mia+Restaurnat+Catering</string>
+    <string name="attraction_restaurant_map_five">Restaurant+Traian+Iasi</string>
+
+    <string name="google_error">You need Google Maps to view this</string>
+
+</resources>
